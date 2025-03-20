@@ -27,4 +27,8 @@ I Developed a comprehensive  project in Excel, creating multiple dashboard and t
 
 ## Project Insights
 
+The dashboard highlights a 11.9% decrease in total road casualties (196K) and accidents (144K) this year. Fatal casualties have dropped by 32.5%, with a significant portion of accidents occurring on cars (155K). Rural areas have more casualties (61.95%), and most accidents happen during the day (73.84%).
 
+## Final Conclusion
+
+The dashboard shows a decline in total road accidents and casualties, indicating an improvement in road safety. However, cars remain the most affected vehicle type, urban areas see more casualties, and most accidents occur in daylight. Continuous efforts are needed to further reduce fatalities and serious injuries.
