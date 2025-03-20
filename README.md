@@ -16,3 +16,15 @@ I Developed a comprehensive  project in Excel, creating multiple dashboard and t
 
 ## Process
 
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created tables and Measures according to the questions asked.
+- Merged all tables and Measures into one dashboard and applied slicer and interactive fliters for dynamic dashboard.
+
+## Dashboard
+
+![Screenshot 2025-03-20 195408](https://github.com/user-attachments/assets/a8fe6cea-365e-4fc3-bb92-f9a21bba849a)
+
+## Project Insights
+
+
